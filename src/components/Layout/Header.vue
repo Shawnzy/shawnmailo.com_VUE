@@ -18,6 +18,12 @@
       <router-link to="/test" class="nav-item is-tab">
         Test
       </router-link>
+      <router-link to="/resume" class="nav-item is-tab">
+        Resume
+      </router-link>
+      <router-link to="/contact" class="nav-item is-tab">
+        Contact
+      </router-link>
     </div>
   </div>
 </nav>

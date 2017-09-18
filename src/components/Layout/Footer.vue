@@ -3,10 +3,10 @@
   <div class="container">
     <div class="content has-text-centered">
       <p>
-        <strong>Haxt</strong> by <a href="http://jgthms.com">s0up</a>.
+        <strong>Chon</strong> by <a href="http://jgthms.com">Shawnzy</a>.
       </p>
       <p>
-        <a class="icon" href="https://github.com/s0up">
+        <a class="icon" href="https://github.com/shawnzy">
             <i class="fa fa-github"></i>
           </a>
       </p>
